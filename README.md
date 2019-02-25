@@ -12,6 +12,7 @@
  4. modele postaci<br>
   a.nasza 4 w tym wersja z chmurka czyli razem nas 8<br>
   b.kasjerzy w sklepach<br>
+  c.zrob 10 jakis bylejakich modeli postaci takich bez zadnych konkretnych szczegółów byle by byly przyda mi sie pozniej <br>
  5. inne <br>
   a.modele sprzetow (moga byc z google grafika zdjecia sprzetow byle no background)<br>
   b.jedzenie cokolwiek co we freshu bd hotdogi piwka wszystko<br>
